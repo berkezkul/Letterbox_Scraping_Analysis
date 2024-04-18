@@ -30,7 +30,7 @@ Number of Movies Directed: Total count of movies directed.
 
 
 
-How Data Will Be Used?(
+How Data Will Be Used?
 
 The data scraped from Letterboxd will be utilized to perform clustering analysis on movies and directors. We plan to:
 
